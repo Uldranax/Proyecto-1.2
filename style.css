@@ -1,0 +1,141 @@
+.container{
+    background-color: white;
+    min-width: 250px;
+}
+.subtitulo{
+    text-align: center;
+    color: black;
+    padding: 30px;
+}    
+.menu{
+    float: right;
+
+}
+.menu li {
+    display: inline-block;
+    margin: 8px;
+
+   
+}
+.menu a{
+    color: red;
+    text-decoration: none;
+    padding: 20px;
+    margin: 10px;
+}
+.menu a:hover{
+    background-color: black;
+
+}
+.row{
+    text-align: center;
+
+}
+.col {
+    width: 300px;
+    display: inline-block;
+    padding: 17px;
+          
+}
+.col h2 {
+    background-color: yellow;
+}
+.col p {
+    background-color: yellow;
+}
+.subtitulo{
+    text-align: center;
+}
+.col h2{
+    color: red;
+
+}
+.menufinal{
+    text-align: center;
+    
+}
+.menufinal li {
+    display: inline-block;
+    margin: 8px;
+
+   
+}
+.menufinal a{
+    color: red;
+    text-decoration: none;
+    padding: 20px;
+    margin: 10px;
+}
+.menufinal a:hover{
+    background-color: black;
+
+}
+.placa{
+    text-align: center;
+    
+}
+.placa h2{
+    color: green;
+
+}
+.placaone{
+    width: 300px;
+    padding: 20px;
+    display: inline-block;
+}
+.placa h1{
+    color: red;
+    background-color: yellow;
+}
+.placa p{
+    background-color: yellow;
+}
+.fuente{
+    text-align: center;
+    
+}
+.fuente h2{
+    color: green;
+}
+.fuenteone{
+    width: 300px;
+    padding: 20px;
+    display: inline-block;
+
+}
+.fuente h1{
+    color: red;
+    background-color: yellow;
+}
+.fuente p {
+    background-color: yellow;
+}
+.cal {
+    text-align: center;
+     font-family:  sans-serif;
+     margin: 120px;
+     padding: 50px;
+     color: black;
+    
+}
+.cal input{
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.titulocalendario {
+    text-align: center;
+    color: black;
+    
+
+}
+.tablacalendario li{
+    text-align: center;
+    margin: 50px;
+    color: black;
+    list-style-type:none;
+}
+.header {
+    text-align: center;
+}
+

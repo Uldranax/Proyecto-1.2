@@ -1,0 +1,33 @@
+ {
+    "comidas": {
+          "0": {
+            "Nombre": "Hamburguesa",
+            "coste": "$13.000"
+          },
+          "1": {
+            "Nombre": "HotDog",
+            "coste": "$6.300"
+          },
+          "2": {
+            "clase": "Pizza",
+            "coste": "$7.000"
+          },
+          "3": {
+            "clase": "Sprint",
+            "coste": "$1.700"
+          },
+          "4": {
+            "clase": "CocaCola",
+            "coste": "$1.850"
+          },
+          "5": {
+            "clase": "Fanta",
+            "coste": "$1.400"
+          }
+    }
+}
+    
+
+
+
+
